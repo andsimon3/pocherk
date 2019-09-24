@@ -3,4 +3,8 @@
     <string name="app_name1">ПОЧерК</string>
     <string name="app_name2">( Объедини свои социальные сети )</string>
     <string name="startbutton"> Приступим</string>
+    <string name="snchoose">Выберите социальную сеть:</string>
+    <string name="vk">ВКонтакте</string>
+    <string name="fb">FaceBook</string>
+    <string name="inst">Instagram</string>
 </resources>

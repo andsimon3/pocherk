@@ -2,5 +2,11 @@
     <string name="app_name">POCHerK ( Unite your social networks )</string>
     <string name="app_name1">POCHerK</string>
     <string name="app_name2">( Unite your social networks )</string>
-    <string name="startbutton"> Lets do it</string>
+    <string name="startbutton">Lets do it</string>
+    <string name="snchoose">Choose social network:</string>
+    <string name="vk">ВКонтакте</string>
+    <string name="fb">FaceBook</string>
+    <string name="inst">Instagram</string>
+    <integer name="com_vk_sdk_AppId">7137575</integer>
+
 </resources>

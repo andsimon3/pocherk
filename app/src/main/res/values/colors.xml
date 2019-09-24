@@ -3,10 +3,8 @@
     <color name="colorPrimary">#008577</color>
     <color name="colorPrimaryDark">#00574B</color>
     <color name="colorAccent">#D81B60</color>
-    <color name="colorMainLite">#DDD</color>
-    <color name="colorMainDark">#333</color>
-    <color name="colorSecondLite">#333</color>
-    <color name="colorSecondDark">#DDD</color>
+    <color name="colorLite">#DDD</color>
+    <color name="colorDark">#333</color>
     <color name="colorThirdLite">#AAF</color>
     <color name="colorThirdDark">#c71</color>
 </resources>

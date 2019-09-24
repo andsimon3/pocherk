@@ -27,7 +27,7 @@ android:background="@color/colorDark">
             android:text="@string/vk"
             android:textAlignment="textStart"
             android:drawableEnd="@drawable/ic_add_black_24dp"
-
+            android:id="@+id/buttonvk"
             android:backgroundTint="#00FFFFFF" android:backgroundTintMode="screen"/>
     <Button
             android:text="@string/fb"
